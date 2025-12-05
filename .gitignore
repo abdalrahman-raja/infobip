@@ -1,7 +1,7 @@
 # Environment variables
-.env
-.env.local
-.env.*.local
+# .env
+# .env.local
+# .env.*.local
 
 # Composer
 vendor/
@@ -23,7 +23,7 @@ logs/
 Thumbs.db
 .DS_Store
 
-# Data
+# Data\ndocs/
 data/
 *.db
 *.sqlite
